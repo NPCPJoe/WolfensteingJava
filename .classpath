@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/joeco_000/workspace/Wolfenstien3D/lib/jinput-2.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joeco_000/workspace/Wolfenstien3D/lib/jinput-platform-2.0.5-natives-linux.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joeco_000/workspace/Wolfenstien3D/lib/jinput-platform-2.0.5-natives-osx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joeco_000/workspace/Wolfenstien3D/lib/jinput-platform-2.0.5-natives-windows.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joeco_000/workspace/Wolfenstien3D/lib/jutils-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joeco_000/workspace/Wolfenstien3D/lib/lwjgl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joeco_000/workspace/Wolfenstien3D/lib/lwjgl-platform-2.9.1-natives-linux.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joeco_000/workspace/Wolfenstien3D/lib/lwjgl-platform-2.9.1-natives-osx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joeco_000/workspace/Wolfenstien3D/lib/lwjgl-platform-2.9.1-natives-windows.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joeco_000/workspace/Wolfenstien3D/lib/slick-util.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
